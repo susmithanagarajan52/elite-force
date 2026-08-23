@@ -494,20 +494,7 @@ It is **not intended to replace medical professionals or provide autonomous diag
 
 Final diagnosis, treatment, and implant selection must remain under the supervision of qualified healthcare professionals.
 
-Any future clinical deployment would require appropriate validation, regulatory review, privacy protection, and clinical evaluation.
-
----
-
-# 👥 Team
-
-### Hackathon Team
-
-**Team Members:**
-*Add team member names and roles here*
-
-**Institution:**
-Sri Venkateshwara College of Engineering
-Sriperumbudur, Tamil Nadu
+Any future clinical deployment would require appropriate validation, regulatory review, privacy protection, and clinical evaluati0n
 
 ---
 
